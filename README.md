@@ -1,4 +1,4 @@
-# Gudens-PC
+# Projekt Remap
 Dansk remap af hele los santos
 
 For at deltage skal du kontakte Guden#0937 på discord og skrive Deltager.
